@@ -1,4 +1,4 @@
-# 📊 HR Analytics Project – Employee Attrition Analysis (Excel)
+#  HR Analytics Project – Employee Attrition Analysis (Excel)
 
 ## 📌 About the Project
 This is a **beginner-level HR Analytics project** created using **Microsoft Excel** to analyze employee attrition.
@@ -16,7 +16,7 @@ All insights are created using **Excel formulas, helper columns, pivot tables, K
 
 ---
 
-## 🎯 Project Goals
+##  Project Goals
 - Calculate overall employee attrition rate
 - Identify departments with high attrition
 - Analyze attrition by age group and gender
@@ -26,7 +26,7 @@ All insights are created using **Excel formulas, helper columns, pivot tables, K
 
 ---
 
-## 🗂 Dataset Overview
+## Dataset Overview
 - **Total Employees:** 1,470  
 - **Employees Left:** 237  
 - **Overall Attrition Rate:** 16%
@@ -42,7 +42,7 @@ The dataset includes:
 
 ---
 
-## 📈 Key KPIs
+##  Key KPIs
 - Total Employees
 - Employees Left
 - Attrition Rate (%)
@@ -53,7 +53,7 @@ The dataset includes:
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 ### 📌 Overall Attrition
 - The company has an attrition rate of **16%**, meaning a noticeable number of employees are leaving.
@@ -79,7 +79,7 @@ The dataset includes:
 
 ---
 
-## 📊 Sheets & Dashboards Included
+##  Sheets & Dashboards Included
 - KPI Dashboard
 - Attrition Analysis
 - Demographic Insights
@@ -89,7 +89,7 @@ The dataset includes:
 
 ---
 
-## 🛠 Tools & Skills Used
+##  Tools & Skills Used
 - Microsoft Excel
 - Excel formulas (`COUNTIF`, `COUNTIFS`, `IF`, `ROUND`)
 - Helper columns
@@ -100,7 +100,7 @@ The dataset includes:
 
 ---
 
-## 💡 Business Recommendations
+##  Business Recommendations
 - Improve salary structure for junior and low-income employees
 - Focus on retention strategies for employees under 30
 - Review workload and career growth opportunities in R&D
@@ -108,7 +108,7 @@ The dataset includes:
 
 ---
 
-## 🚀 What I Learned from This Project
+##  What I Learned from This Project
 - How to analyze real-world HR data
 - How to calculate and present KPIs
 - How to create dashboards in Excel
@@ -116,7 +116,7 @@ The dataset includes:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 HR-Employee-Attrition-Excel/
 │
 ├──Project02.HR-Employee-Attrition.xlsx
@@ -130,5 +130,5 @@ HR-Employee-Attrition-Excel/
 
 ---
 
-## 📬 Contact
+##  Contact
 If you have feedback or suggestions, feel free to connect with me.
